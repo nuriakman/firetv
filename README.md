@@ -9,14 +9,14 @@ Hesap açılırken aşağıdaki adres bilgileri kullanılmalıdır. Eğer adres 
 
 Bölüm|Yazacağınız Değer
 ---|---
-📌Country/Region|United States
-📌Full name|Ad Soyad
-📌Street address|50 COLFAX AVE STE AK7260 CLIFTON
-📌Alt Satıra|NJ 07013-1944
-📌City|CLIFTON
-📌State / Province / Region|NJ
-📌Zip Code|07013-1944
-📌Phone number|718-878-4456
+Country/Region|United States
+Full name|Ad Soyad
+Street address|50 COLFAX AVE STE AK7260 CLIFTON
+Alt Satıra|NJ 07013-1944
+City|CLIFTON
+State / Province / Region|NJ
+Zip Code|07013-1944
+Phone number|718-878-4456
 
 
 ## Fire TV Sıfırlama (Fabrika Ayarlarına Dönme)
