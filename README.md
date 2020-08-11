@@ -27,7 +27,7 @@ Phone number|718-878-4456
 - `Add mobile number` diyerek sizden cep numaranızı isteyecek. `Not Now` diyerek devam edin.
 - `Add a New Payment Method` başlığı altındaki `Add a credit or debit card` düğmesine basın
 - Kredi Kartı bilgilerinizi yazarak `Add your card` düğmesine basın.
-
+- `Use thids addres` düğmesine basın. İŞLEM TAMAM!
 
 
 ## Fire TV Sıfırlama (Fabrika Ayarlarına Dönme)
@@ -40,17 +40,12 @@ Eğer, sahibi olduğunuz Fire TV'yi satacaksanız sıfırlama işlemi yapmanız 
 - Yeniden Kuracaksanız Sıfırlayın
 Kullanmakta olduğunuz Fire TV'yi sıfırlayarak temiz bir kurulumla performansını yükseltebilirsiniz.
 
-- KUMANDA İLE SIFIRLAMA İŞLEMİ:
- - Kumandanın SAĞ YÖN düğmesine ve GERİ düğmesine aynı anda basın ve 10 sn kadar bekleyin
- - "Reset to Factory Defaults" sorusu çıkar
- - "Ok" seçilirse cihazınız fabrika ayarlarına geri döner
- - Bu işlem sonrasında 10-15 dk kadar beklemeniz gerekir
-- MENÜ ÜZERİNDEN SIFIRLAMA İŞLEMİ
- - Settings
- - My Fire TV
- - Reset to Factory Defaults
- - Reset
- - 10-15 kadar beklemeniz gerekir
+### MENÜ ÜZERİNDEN SIFIRLAMA İŞLEMİ
+- Settings
+- My Fire TV
+- Reset to Factory Defaults
+- Reset
+- 10-15 kadar beklemeniz gerekir
 
 
 ## Cihazı İLK DEFA kullanacaksanız
@@ -105,6 +100,8 @@ Bu Cep uygulaması, Fire TV'ye yazı yazmanız gereken durumlarda telefonunuzun 
 
 `NOT:` Bu uygulamanın kullanılabilmesi için Fire TV'niz ve Cep telefonunuz aynı WiFi'ye bağlı olmalıdır
 
+## Fire TV'nin Yeniden Başlatılması (Aç/Kapa)
+- Settings - My FireTV - Restart - YES menüsü ile cihazınızı yeniden başlatabilirsiniz
 
 
 ## Downloader Üzerinden Kurulacak Programlar
@@ -116,25 +113,54 @@ Downloader kullanarak şu uygulamalar indirilir:
 
 - KODİ
   - Film, Dizi ve IP TV Yayınlarını izleyebileceğiniz bir programdır.
-  - İndirme Adresi: http://kodi.tv/download
+  - İndirme Adresi: `http://kodi.tv/download`
   - Açılan sayfada önce `Android` seçilir, sonra `ARMV7A (32 Bit)` seçilir
 
 - Aptoide
   - Aptoide, televizyonunuza program indirebileceğiniz bir uygulama marketidir.
   - Fire TV uygulama marketinde yer almayan programlar buradan indirilebilir.
-  - İndirme Adresi: https://tv.aptoide.com/
+  - İndirme Adresi: `https://tv.aptoide.com/`
 
 - STB EMU
   - Fire TV üzerinden, TV yayınlarını izleyebilmek için kullanılan yazılımdır.
-  - İndirme Adresi: http://absolut-kodi.com/repo
-  - Sayfadaki `apk` içine girilir ve `stb emu` seçilir
+  - İndirme Adresi: `http://absolut-kodi.com/repo`
+  - Sayfadaki `apks` içine girilir ve güncel sürüm `STB EMU` seçilir
 
 
-- STB EMU Profili Oluşturma
 
-Profil bilgisi sunan siteler: 
- - https://iptvlinkseuro.blogspot.com/
- - https://iptvxtreamcodes.com/
+
+
+# STB EMU
+
+Bu programı kullanabilmek için Profil oluşturmanız gerekir:
+
+- STB EMU uygulamasını açın
+- İlk defa çalıştırıyorsanız size sorulan soruya `CONFIGURE APPLICATION` seçin
+- Profiles menüsüne girin
+- Add Profile düğmesine basın
+- Profile Name bölümüne bir sim girebilirsiniz (zorunlu değil)
+- `Portal Settings` menüsüne girin
+- `Portal URL` menüsüne girin
+- Buraya uygun bir Profil URL adresi girin ve `NEXT`'e basın
+  - Profil bilgisi sunan siteler: 
+  - https://iptvlinkseuro.blogspot.com/
+  - https://iptvxtreamcodes.com/
+- 'OK' düğmesine basarak onaylayın
+- `Geri` düğmesi ile bir önceki ekrana dönün
+- `STB Configuration` menüsüne girin
+- `MAC-address` menüsüne girin
+- Buraya uygun bir MAC adresi değeri girin ve `NEXT`'e basın
+  - MAC Adresi `00:1A:79:` ile başlar ve şuna benzer bir şeydir: `00:1A:79:00:00:00`
+- 'OK' düğmesine basarak onaylayın
+- 4 defa `GERİ` düğmesine basarak uygulamanın ana ekranına gelin.
+- Bu ekranda `To configure the ...` ifadesi ile başlayan kocaman karakterlerle bir yazı göreceksiniz
+- Kumandadaki HamburgerMenü düğmesine basın (üzerinde 3 adet çizgi olan düğme)
+- `Profile` menüsü üzerine ilerleyip SAĞ YÖN tuşuna basın
+- İstediğiniz profili seçin
+- Hepsi bu kadar! İyi seyirler!!!
+
+
+
 
 
 
@@ -150,25 +176,32 @@ SeyirTÜRK daha çok kullanılır. Ancak, TürkVOD'u da kurmak isterseniz açık
 
 ### Ön Hazırlık
 - Arayüzü Türkçeleştirme:
+  - Ana Ekran
   - Settings
   - Interface
   - Regional
   - Sağ taraftan: Language
   - Turkish
 - Bilinmeyen Kaynaklara İzin Verme:
+  - Ana Ekran
   - Ayarlar
+  - Sistem
   - Eklentiler
   - Bilinmeyen kaynaklar (Burayı etkinleştirin)
 
 ### Adım 1: Kaynak Ekle
+- Ana Ekran
+- Ayarlar
 - Dosya Yöneticisi
 - Kaynak Ekle
 - Hiçbiri
 - http://absolut-kodi.com/repo
-- Medya Kaynağı İsmi'ne .DEPOLAR yaz
+- `Medya Kaynağı İsmi`'ne `.DEPOLAR` yaz
 - Tamam diyerek işlemi bitir
 
 ### Adım 2: Eklentiyi Yükleye
+- Ana Ekran
+- Ayarlar
 - Eklentiler
 - ZİP Dosyasından Yükle
 - .DEPOLAR'yu seç
@@ -185,17 +218,27 @@ SeyirTÜRK daha çok kullanılır. Ancak, TürkVOD'u da kurmak isterseniz açık
 - Güncelle (varsa aktif olur, seçerek güncellersiniz)
 - Yükle
 - Lazım olan başka eklentilerin yüklenmesini ister. (Gerekirse sorar, her zaman değil. Sorarsa yüklenmesi için onay verirsiniz)
+- İŞLEM TAMAM !!!
 
+İzleme için:
 
-İşlem Tamam!
-
-Sol Menü'deki Video başlığından SeyirTURK Seçilir
+- Ana Ekran
+- Eklentiler
+- Seyirtürk
+veya: 
+- Ana ekran
+- Video
+- SeyirTURK
 
 Güle güle kullanın
 
 
 
-# STB EMU Nasıl Yüklenir? Canlı TV Nasıl İzlenir?
+
+# EXTRA! EXTRA! EXTRA! 
+
+
+## STB EMU Nasıl Yüklenir? Canlı TV Nasıl İzlenir?
 Video Anlatım: https://www.youtube.com/watch?v=v_U8jbt8O-8
 
 
