@@ -267,44 +267,21 @@ Bu başlıkların her birinde şu kategoriler mevcuttur: Araçlar, CanlıTV, Fil
 KURULUM VİDEOSU: https://www.youtube.com/watch?v=DuWXg5q6UyM&t=1049s
 
 
-
 ## STB EMU için Telegram İletişim Grupları
-
-- https://t.me/Androidboxdestek
-Merttemizer / Android Tv Box Destek / Hiremco Destek / Uydu destek
-
-- https://t.me/TekNokta2020
-/Android/Ios/Windows/Application/Genel Teknoloji Yardımlaşma Platformu
-
-- https://t.me/joinchat/IwluMlB_IwN3DwwG3ew31A
-ByGencer grubu
-
-- https://t.me/sifresiztviptv 
-IPTV,Spor,Sinema,Film,Dizi ve daha fazlası için takip edin
-
-- https://t.me/byGencerfilmMovie
-Film Kanalı
-
-- https://t.me/netflixortakalim
-Ortak netflix almak için platform
-
-- https://t.me/FireTVTR 
-Amazon Fire TV Genel Bilgi Paylaşımı
-
-- https://t.me/stbemuturkportal
-STB UMU için paylaşım platformu
-
-- https://t.me/apkdepo
-Apklar programlar burada paylaşılacaktır 
-
-- https://t.me/iptvtr
-Bu kanalda IPTV linkleri, m3u8 xspf m3u ... vb uzantılı linkler paylaşılacaktır
-
-- https://t.me/iptvkodlar
-iptvkodlar
-
-- https://t.me/StbEmuCode
-ZALTVCODE & STB EMU
+Grup Adresi|Açıklama
+---|---
+https://t.me/Androidboxdestek| Merttemizer / Android Tv Box Destek / Hiremco Destek / Uydu destek
+https://t.me/TekNokta2020| /Android/Ios/Windows/Application/Genel Teknoloji Yardımlaşma Platformu
+https://t.me/joinchat/IwluMlB_IwN3DwwG3ew31A| ByGencer grubu
+https://t.me/sifresiztviptv | IPTV,Spor,Sinema,Film,Dizi ve daha fazlası için takip edin
+https://t.me/byGencerfilmMovie| Film Kanalı
+https://t.me/netflixortakalim| Ortak netflix almak için platform
+https://t.me/FireTVTR | Amazon Fire TV Genel Bilgi Paylaşımı
+https://t.me/stbemuturkportal| STB EMU için paylaşım platformu
+https://t.me/apkdepo| Apklar programlar burada paylaşılacaktır
+https://t.me/iptvtr| Bu kanalda IPTV linkleri, m3u8 xspf m3u ... vb uzantılı linkler paylaşılacaktır
+https://t.me/iptvkodlar| iptvkodlar
+https://t.me/StbEmuCode| ZALTVCODE & STB EMU
 
 
 
