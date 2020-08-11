@@ -7,21 +7,32 @@
 
 Hesap açılırken aşağıdaki adres bilgileri kullanılmalıdır. Eğer adres olarak ABD girerseniz, Nexflix başta olmak üzere bir çok uygulama karşınıza kurulu olarak gelecektir. Aksi halde Fire TV'nize hesabınızı vererek giriş yaptığınızda Netflix, YouTube (ve bazı diğer uygulamalar) karşınıza çıkmayacaktır.
 
+Ad Soyad, email ve şifre ile kayıt ekranını geçtiğinizde email adresinize bir kod gelecek ve onu yeni ekranda yazmanız istenecek.
+
+Menüdeki Your Account seçeneğine girdiğinizde Your Addresses başlığına tıklayınve yeni adres bilgilerinizi aşağıya göre yazarak Add Addres düğmesine basınız.
+
 Bölüm|Yazacağınız Değer
 ---|---
 Country/Region|United States
-Full name|Ad Soyad
-Street address|50 COLFAX AVE STE AK7260 CLIFTON
-Alt Satıra|NJ 07013-1944
+Full name|Adınız Soyadınız
+Address line 1|50 COLFAX AVE STE AK7260 CLIFTON
+Address line 2|NJ 07013-1944
 City|CLIFTON
 State / Province / Region|NJ
 Zip Code|07013-1944
 Phone number|718-878-4456
 
+- Your Accounts içinden Your Payments ekranına girilir
+- eMail hesabınıza bir şifre gelecek. Onu yazarak devam edin
+- `Add mobile number` diyerek sizden cep numaranızı isteyecek. `Not Now` diyerek devam edin.
+- `Add a New Payment Method` başlığı altındaki `Add a credit or debit card` düğmesine basın
+- Kredi Kartı bilgilerinizi yazarak `Add your card` düğmesine basın.
+
+
 
 ## Fire TV Sıfırlama (Fabrika Ayarlarına Dönme)
 
-Sıfırlamak veya  **Fabrika Ayarlarına Dönme**'yi, Fire TV cihazınıza **Format atma** olarak düşünebilirsiniz.
+Sıfırlamak veya  `Fabrika Ayarlarına Dönme`'yi, Fire TV cihazınıza `Format atma` olarak düşünebilirsiniz.
 
 - Cihazınızı Satacaksanız Sıfırlayın
 Eğer, sahibi olduğunuz Fire TV'yi satacaksanız sıfırlama işlemi yapmanız gerekir. Böylece, size ait bilgiler alan kişiye geçmeyecektir.
@@ -44,41 +55,45 @@ Kullanmakta olduğunuz Fire TV'yi sıfırlayarak temiz bir kurulumla performans�
 
 ## Cihazı İLK DEFA kullanacaksanız
 
-- Önce DİL seçimi yapmanızı ister. Türkçe yok. "English (United States)" Seçin
+- Gerekli kablo bağlantılarını yapıp adaptörü fişe takın
+- TV'nizin kumandasını kullanarak ilgili HDMI kaynağını seçin
+- Bu noktada TV Kumandası ile işiniz bitti.
+- Fire TV'nin kumandasını elinize alın.
+- Karşınıza gelen ekranla birlikte kumandanızın `HOME (ev)` düğmesine 10 saniye kadar basmanızı isteyecek
+- FireTV Stick yazısı ekrana görünecek. `PLAY/PAUSE` düğmesine basın.
+- Önce DİL seçimi yapmanızı ister. Türkçe yok. `Choice Your Language` başlığından "English (United States)" Seçin
 - WiFi ağınıza bağlanmanızı isteyecektir. WiFi kullanıcı bilgilerinizi giriniz.
-- Gelen ekranda "I Already have Amazon Account" seçilir
-- Ardından Amazon Hesabınız ile giriş yapınız
-- Size bir soru sorar, "Continue" diyerek devam edin
-- "Save Password?" gibi bir soru sorar "YES" cevabı verin
-- Yeni ekrandaki soruya "No Parental Controls" seçeneği ile cevap verilir
-- TV Markanızı seçin ekranı gelecek. Markanızı seçin
-- Açılan ekranda "Next" düğmesine basın
-- TV Seçtiğinide Fire TV kumandasındaki ses düğmesini açmanızı isteyecek
-  -  Sesi açtığınızda müziği duyabiliyorsanız doğru markayı seçtiniz demektir
-- Onay vererek bir sonraki ekrana geçersiniz.
-- "Amazon Prime" için üye olup olmamak isteğinizi sorar. "Continue" cevabını verin
-- "Streaming Service" sorusunu sorar. "No Thanks" cevabını verin
+- Gelen ekranda `I Already have an Amazon Account` seçilir
+- Ardından Amazon Hesabınız ile giriş yapınız. (Önce email sonra şifrenizi yazın) 
+- Successfully Registred mesajından sonra Size bir soru sorar, `Continue` diyerek devam edin
+- `Save Password? gibi bir soru sorar `YES` cevabı verin
+- Yeni ekrandaki soruya `No Parental Controls` seçeneği ile cevap verin
+- Yeni ekranda `Next` düğmesine basın
+- Fire TV kumandasındaki ses tuşu le sesi arttırıp azaltın.
+- Sesi açtığınızda müziği duyabiliyorsanız doğru yoldasınız demektir
+- Ekrandaki `Yes` düğmesine basarak devam edin
+- `Ok` düğmesine basarak kurulumu tamamlayın.
+- `Amazon Prime` için üye olup olmamak isteğinizi sorar. `No thanks` cevabını verin
 
 Artık kurulum tamamlandı!
 
 
 ## İlk Yapılacak Ayarlar
 
-Ekranın üst kısmında yer alan menünün en sağınaki **Settings** ekranında şu ayarlar yapılır:
+Ekranın üst kısmında yer alan menünün en sağınaki `Settings` ekranında şu ayarlar yapılır:
 
 - Settings - My FireTV - Developers - Apps From Unknown Source - ON
 - Settings - My FireTV - Developers - ADB Debugging - ON
-- Settings - Applications- Appstore - Automatic Updates - OFF
-- Settings - Applications- Appstore - Notifications - OFF
-- Settings - Applications- Amazon Photos - Allow Guest/Access Amazon - OFF
+- Settings - Applications - Appstore - Automatic Updates - OFF
+- Settings - Applications - Appstore - Notifications - OFF
 - Settings - Preferences - Privacy Settings - Device Usage Data - OFF
 - Settings - Preferences - Privacy Settings - Collect App Usage Data - OFF
 - Settings - Preferences - Privacy Settings - Interestbased Ads - OFF
-- Settings - Preferences - Data Monitoring OFF
-- Settings - Preferences - Notification Settings - Do not interrupt ON
-- Settings - Preferences - Featured Content - Allow Video Autoplay OFF
-- Settings - Preferences - Featured Content - Allow Audio Autoplay OFF
-- Settings - Preferences - Time Zone - Europe - GMT +3
+- Settings - Preferences - Data Monitoring - OFF
+- Settings - Preferences - Notification Settings - Do not interrupt - ON
+- Settings - Preferences - Featured Content - Allow Video Autoplay - OFF
+- Settings - Preferences - Featured Content - Allow Audio Autoplay - OFF
+- Settings - Preferences - Time Zone - Europe - GMT +03:00
 - Settings - Preferences - 24 Hour Time - On
 
 
@@ -88,21 +103,21 @@ Cep telefonunuzu kullanarak Fire TV'yi kumanda etmek isterseniz uygulama marketi
 
 Bu Cep uygulaması, Fire TV'ye yazı yazmanız gereken durumlarda telefonunuzun klavyesini kullanarak yazı yazma kolaylığı sunduğu için çok işe yarıyor.
 
-**NOT:** Bu uygulamanın kullanılabilmesi için Fire TV'niz ve Cep telefonunuz aynı WiFi'ye bağlı olmalıdır
+`NOT:` Bu uygulamanın kullanılabilmesi için Fire TV'niz ve Cep telefonunuz aynı WiFi'ye bağlı olmalıdır
 
 
 
 ## Downloader Üzerinden Kurulacak Programlar
 
 ### Downloader Kurulumu
-Ekranın üst kısmında yer alan menünün en sağınaki **App** menüsündeki **Applications** başlığı altındaki **Categories / Utilities** altından **Downloader** uyugulaması kurulur.
+Ekranın üst kısmında yer alan menünün en sağınaki `App` menüsündeki `Applications` başlığı altındaki `Categories` ve `Utilities` altından `Downloader` uyugulaması kurulur.
 
 Downloader kullanarak şu uygulamalar indirilir:
 
 - KODİ
   - Film, Dizi ve IP TV Yayınlarını izleyebileceğiniz bir programdır.
   - İndirme Adresi: http://kodi.tv/download
-  - Açılan sayfada önce **Android** seçilir, sonra **ARMV7A (32 Bit)** seçilir
+  - Açılan sayfada önce `Android` seçilir, sonra `ARMV7A (32 Bit)` seçilir
 
 - Aptoide
   - Aptoide, televizyonunuza program indirebileceğiniz bir uygulama marketidir.
@@ -112,7 +127,7 @@ Downloader kullanarak şu uygulamalar indirilir:
 - STB EMU
   - Fire TV üzerinden, TV yayınlarını izleyebilmek için kullanılan yazılımdır.
   - İndirme Adresi: http://absolut-kodi.com/repo
-  - Sayfadaki **apk** içine girilir ve **stb emu** seçilir
+  - Sayfadaki `apk` içine girilir ve `stb emu` seçilir
 
 
 - STB EMU Profili Oluşturma
