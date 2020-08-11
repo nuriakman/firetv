@@ -32,13 +32,9 @@ Phone number|718-878-4456
 
 ## Fire TV Sıfırlama (Fabrika Ayarlarına Dönme)
 
-Sıfırlamak veya  `Fabrika Ayarlarına Dönme`'yi, Fire TV cihazınıza `Format atma` olarak düşünebilirsiniz.
-
-- Cihazınızı Satacaksanız Sıfırlayın
-Eğer, sahibi olduğunuz Fire TV'yi satacaksanız sıfırlama işlemi yapmanız gerekir. Böylece, size ait bilgiler alan kişiye geçmeyecektir.
-
-- Yeniden Kuracaksanız Sıfırlayın
-Kullanmakta olduğunuz Fire TV'yi sıfırlayarak temiz bir kurulumla performansını yükseltebilirsiniz.
+- Sıfırlamak veya  `Fabrika Ayarlarına Dönme`'yi, Fire TV cihazınıza `Format atma` olarak düşünebilirsiniz.
+- **Cihazınızı Satacaksanız Sıfırlayın** Eğer, sahibi olduğunuz Fire TV'yi satacaksanız sıfırlama işlemi yapmanız gerekir. Böylece, size ait bilgiler alan kişiye geçmeyecektir.
+- **Yeniden Kuracaksanız Sıfırlayın** Kullanmakta olduğunuz Fire TV'yi sıfırlayarak temiz bir kurulumla performansını yükseltebilirsiniz.
 
 ### MENÜ ÜZERİNDEN SIFIRLAMA İŞLEMİ
 - Settings
