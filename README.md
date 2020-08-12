@@ -73,8 +73,6 @@ Artık kurulum tamamlandı!
 
 Ekranın üst kısmında yer alan menünün en sağınaki `Settings` ekranında şu ayarlar yapılır:
 
-- Settings - My FireTV - Developers - Apps From Unknown Source - ON
-- Settings - My FireTV - Developers - ADB Debugging - ON
 - Settings - Applications - Appstore - Automatic Updates - OFF
 - Settings - Applications - Appstore - Notifications - OFF
 - Settings - Preferences - Privacy Settings - Device Usage Data - OFF
@@ -87,6 +85,8 @@ Ekranın üst kısmında yer alan menünün en sağınaki `Settings` ekranında 
 - Settings - Preferences - Time Zone - Europe - GMT +03:00
 - Settings - Preferences - 24 Hour Time - On
 - Settings - Preferences - Metric Units - On
+- Settings - My FireTV - Developers - Apps From Unknown Source - ON
+- Settings - My FireTV - Developers - ADB Debugging - ON
 
 
 ## Cep Telefonunuzdan Kontrol Etmek İsterseniz
