@@ -86,6 +86,7 @@ Ekranın üst kısmında yer alan menünün en sağınaki `Settings` ekranında 
 - Settings - Preferences - Featured Content - Allow Audio Autoplay - OFF
 - Settings - Preferences - Time Zone - Europe - GMT +03:00
 - Settings - Preferences - 24 Hour Time - On
+- Settings - Preferences - Metric Units - On
 
 
 ## Cep Telefonunuzdan Kontrol Etmek İsterseniz
