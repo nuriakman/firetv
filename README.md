@@ -5,11 +5,11 @@
 
 Şu adresten amazon hesabı açılır: https://www.amazon.com/account
 
-Hesap açılırken aşağıdaki adres bilgileri kullanılmalıdır. Eğer adres olarak ABD girerseniz, Nexflix başta olmak üzere bir çok uygulama karşınıza kurulu olarak gelecektir. Aksi halde Fire TV'nize hesabınızı vererek giriş yaptığınızda Netflix, YouTube (ve bazı diğer uygulamalar) karşınıza çıkmayacaktır.
+Hesap açılırken aşağıdaki adres bilgileri kullanılmalıdır. Eğer adres olarak ABD girerseniz, Nexflix başta olmak üzere bir çok uygulama karşınıza kurulu olarak gelecektir. Aksi halde Fire TV'nize hesabınızı vererek giriş yaptığınızda Netflix, YouTube (ve bazı diğer uygulamalar) karşınıza **çıkmayacaktır.**
 
 Ad Soyad, email ve şifre ile kayıt ekranını geçtiğinizde email adresinize bir kod gelecek ve onu yeni ekranda yazmanız istenecek.
 
-Menüdeki Your Account seçeneğine girdiğinizde Your Addresses başlığına tıklayınve yeni adres bilgilerinizi aşağıya göre yazarak Add Addres düğmesine basınız.
+Menüdeki `Your Account` seçeneğine girdiğinizde `Your Addresses` başlığına tıklayınve yeni adres bilgilerinizi aşağıya göre yazarak `Add Addres` düğmesine basınız.
 
 Bölüm|Yazacağınız Değer
 ---|---
@@ -22,27 +22,13 @@ State / Province / Region|NJ
 Zip Code|07013-1944
 Phone number|718-878-4456
 
-- Your Accounts içinden Your Payments ekranına girilir
+- `Your Accounts` içinden `Your Payments` ekranına girilir
 - eMail hesabınıza bir şifre gelecek. Onu yazarak devam edin
 - `Add mobile number` diyerek sizden cep numaranızı isteyecek. `Not Now` diyerek devam edin.
 - `Add a New Payment Method` başlığı altındaki `Add a credit or debit card` düğmesine basın
 - Kredi Kartı bilgilerinizi yazarak `Add your card` düğmesine basın.
-- `Use thids addres` düğmesine basın. İŞLEM TAMAM!
-
-
-## Fire TV Sıfırlama (Fabrika Ayarlarına Dönme)
-
-- Sıfırlamak veya  `Fabrika Ayarlarına Dönme`'yi, Fire TV cihazınıza `Format atma` olarak düşünebilirsiniz.
-- **Cihazınızı Satacaksanız Sıfırlayın** Eğer, sahibi olduğunuz Fire TV'yi satacaksanız sıfırlama işlemi yapmanız gerekir. Böylece, size ait bilgiler alan kişiye geçmeyecektir.
-- **Yeniden Kuracaksanız Sıfırlayın** Kullanmakta olduğunuz Fire TV'yi sıfırlayarak temiz bir kurulumla performansını yükseltebilirsiniz.
-
-### MENÜ ÜZERİNDEN SIFIRLAMA İŞLEMİ
-- Settings
-- My Fire TV
-- Reset to Factory Defaults
-- Reset
-- 10-15 kadar beklemeniz gerekir
-
+- `Use this addres` düğmesine basın. 
+- **İŞLEM TAMAM!**
 
 ## Cihazı İLK DEFA kullanacaksanız
 
@@ -67,6 +53,20 @@ Phone number|718-878-4456
 - `Amazon Prime` için üye olup olmamak isteğinizi sorar. `No thanks` cevabını verin
 
 Artık kurulum tamamlandı!
+
+
+## Kullandığınız Cihazı Sıfırlamak İsterseniz
+- Fire TV Sıfırlama veya  `Fabrika Ayarlarına Dönme`'yi, Fire TV cihazınıza `Format atma` olarak düşünebilirsiniz.
+- **Cihazınızı Satacaksanız Sıfırlayın** Eğer, sahibi olduğunuz Fire TV'yi satacaksanız sıfırlama işlemi yapmanız gerekir. Böylece, size ait bilgiler alan kişiye geçmeyecektir.
+- **Yeniden Kuracaksanız Sıfırlayın** Kullanmakta olduğunuz Fire TV'yi sıfırlayarak temiz bir kurulumla performansını yükseltebilirsiniz.
+
+**MENÜ ÜZERİNDEN SIFIRLAMA İŞLEMİ**
+- Settings
+- My Fire TV
+- Reset to Factory Defaults
+- Reset
+- 10-15 kadar beklemeniz gerekir
+
 
 
 ## İlk Yapılacak Ayarlar
@@ -163,13 +163,7 @@ Bu programı kullanabilmek için Profil oluşturmanız gerekir:
 
 # KODİ Eklentileri
 
-## En İyi 5 Kodi Futbol Eklenti
-Eklentiler ve açıklamaları için: https://tr.go-travels.com/5-best-kodi-football-addons-watch-football-kodi-2019
-
-## TürkVOD Eklentisini Kurma
-SeyirTÜRK daha çok kullanılır. Ancak, TürkVOD'u da kurmak isterseniz açıklamalı video burada: https://www.youtube.com/watch?v=uQjHg-GgUHY
-
-## SeyirTURK Eklentisini Kurma
+# SeyirTURK Eklentisini Kurma
 
 ### Ön Hazırlık
 - Arayüzü Türkçeleştirme:
@@ -230,10 +224,15 @@ veya:
 Güle güle kullanın
 
 
+# TürkVOD Eklentisini Kurma
+SeyirTÜRK daha çok kullanılır. Ancak, TürkVOD'u da kurmak isterseniz açıklamalı video burada: https://www.youtube.com/watch?v=uQjHg-GgUHY
+
 
 
 # EXTRA! EXTRA! EXTRA! 
 
+## En İyi 5 Kodi Futbol Eklenti
+Eklentiler ve açıklamaları için: https://tr.go-travels.com/5-best-kodi-football-addons-watch-football-kodi-2019
 
 ## STB EMU Nasıl Yüklenir? Canlı TV Nasıl İzlenir?
 Video Anlatım: https://www.youtube.com/watch?v=v_U8jbt8O-8
