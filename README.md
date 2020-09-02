@@ -1,5 +1,9 @@
 # Amazon Fire TV
 
+![Fire TV Cihaz Kutusu](https://img.bfmtv.com/c/1256/708/3b5/4eeec509ae5827c45db398323029f.jpg)
+
+Image Credit: https://www.01net.com/tests/test-fire-tv-stick-4k-prometteuse-l-experience-tele-d-amazon-manque-encore-de-maturite-6313.html
+
 
 ## Amazon Hesabı Açma
 
@@ -29,6 +33,10 @@ Phone number|718-878-4456
 - Kredi Kartı bilgilerinizi yazarak `Add your card` düğmesine basın.
 - `Use this addres` düğmesine basın. 
 - **İŞLEM TAMAM!**
+
+![Fire TV Kablolar ve Cihaz](https://img.bfmtv.com/c/0/708/88c/cf7ee1eddb5a3bc226af482538169.jpg)
+
+Image Credit: https://www.01net.com/tests/test-fire-tv-stick-4k-prometteuse-l-experience-tele-d-amazon-manque-encore-de-maturite-6313.html
 
 ## Cihazı İLK DEFA kullanacaksanız
 
