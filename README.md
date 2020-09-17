@@ -288,7 +288,16 @@ https://t.me/iptvkodlar| iptvkodlar
 https://t.me/StbEmuCode| ZALTVCODE & STB EMU
 
 
+## Prime Video Üyeliğiniz Fire TV'de görünmüyor mu?
 
+**Prime Video** için üye oldunuz, ancak Fire TV'nizde bu üyelik görünmüyorsa şunları yapmalısınız:
+
+- amazon.com ya da amazon.de adresinden amazın hesabınıza giriş yapın
+- Prime üyeliğinizi başlatın
+- Fire TV'deki menüden hesabınızın Amazon ile bağlantınızı kesin
+- Fire TV'deki menüden hesabınızın Amazon ile bağlantınızı tekrar yapın
+- Varsa güncellemeniz otomatik yapılacaktır
+- Artık **Prime Video**’yu açabilirsiniz
 
 
 
