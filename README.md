@@ -140,8 +140,10 @@ Downloader kullanarak şu uygulamalar indirilir:
 Bu programı kullanabilmek için Profil oluşturmanız gerekir:
 
 - STB EMU uygulamasını açın
-- İlk defa çalıştırıyorsanız size sorulan soruya `CONFIGURE APPLICATION` seçin
-- Profiles menüsüne girin
+- İlk defa çalıştırıyorsanız size sorulan soruya `CONFIGURE APPLICATION` cevabını verin
+- Kumandadaki HamburgerMenü düğmesine basın (üzerinde 3 adet çizgi olan düğme)
+- `Settings` menüsüne girin
+- `Profiles` menüsüne girin
 - Add Profile düğmesine basın
 - Profile Name bölümüne bir sim girebilirsiniz (zorunlu değil)
 - `Portal Settings` menüsüne girin
