@@ -51,7 +51,7 @@ Image Credit: https://www.01net.com/tests/test-fire-tv-stick-4k-prometteuse-l-ex
 - Gelen ekranda `I Already have an Amazon Account` seçilir
 - Ardından Amazon Hesabınız ile giriş yapınız. (Önce email sonra şifrenizi yazın) 
 - Successfully Registred mesajından sonra Size bir soru sorar, `Continue` diyerek devam edin
-- `Save Password? gibi bir soru sorar `YES` cevabı verin
+- `Save Password?` gibi bir soru sorar `YES` cevabı verin
 - Yeni ekrandaki soruya `No Parental Controls` seçeneği ile cevap verin
 - Yeni ekranda `Next` düğmesine basın
 - Fire TV kumandasındaki ses tuşu le sesi arttırıp azaltın.
