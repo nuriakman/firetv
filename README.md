@@ -302,6 +302,7 @@ https://t.me/StbEmuCode| ZALTVCODE & STB EMU
 - Artık **Prime Video**’yu açabilirsiniz
 
 
-
+# Faydalı Videolar
+- https://www.youtube.com/watch?v=bSUOvpiKd0U How To Add More Storage on your Fire TV Stick
 
 
