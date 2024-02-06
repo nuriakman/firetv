@@ -1,6 +1,6 @@
 # Amazon Fire TV
 
-![Fire TV Cihaz Kutusu](https://img.bfmtv.com/c/1256/708/3b5/4eeec509ae5827c45db398323029f.jpg)
+![Fire TV Cihaz Kutusu](https://www.01net.com/app/uploads/2020/11/Amazon-fire-tv-stick-4k-768x433.jpg)
 
 Image Credit: https://www.01net.com/tests/test-fire-tv-stick-4k-prometteuse-l-experience-tele-d-amazon-manque-encore-de-maturite-6313.html
 
@@ -34,7 +34,7 @@ Phone number|718-878-4456
 - `Use this addres` düğmesine basın. 
 - **İŞLEM TAMAM!**
 
-![Fire TV Kablolar ve Cihaz](https://img.bfmtv.com/c/0/708/88c/cf7ee1eddb5a3bc226af482538169.jpg)
+![Fire TV Kablolar ve Cihaz](https://www.01net.com/app/uploads/2020/11/Amazon-fire-tv-stick-4k-accessoires-768x433.jpg)
 
 Image Credit: https://www.01net.com/tests/test-fire-tv-stick-4k-prometteuse-l-experience-tele-d-amazon-manque-encore-de-maturite-6313.html
 
@@ -115,6 +115,14 @@ Bu Cep uygulaması, Fire TV'ye yazı yazmanız gereken durumlarda telefonunuzun 
 Ekranın üst kısmında yer alan menünün en sağınaki `App` menüsündeki `Applications` başlığı altındaki `Categories` ve `Utilities` altından `Downloader` uyugulaması kurulur.
 
 Downloader kullanarak şu uygulamalar indirilir:
+
+
+- İnatTV
+  - Film, Dizi ve IP TV Yayınlarını izleyebileceğiniz bir programdır.
+  - İndirme Adresi: `https://inattv96.link/` Link kırık olursa sayıyı arttırarak tekrar deneyin: 97, 98 vb
+  - Alternatif Adresler: https://inatboxapk.com.tr/
+  - Alternatif Adresler: https://inattvapk.com.tr/
+  - Açılan sayfada `APK indir` seçilir
 
 - KODİ
   - Film, Dizi ve IP TV Yayınlarını izleyebileceğiniz bir programdır.
